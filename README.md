@@ -11,5 +11,7 @@ Generate Anki decks from german youtube video subtitles.
 https://apps.ankiweb.net/docs/addons20.html#qt
 https://github.com/ankicommunity/anki-sync-server
 https://genedan.com/no-127-ankisyncd-a-custom-sync-server-for-anki-2-1/
+https://fasttext.cc/docs/en/crawl-vectors.html
+https://www.juliensobczak.com/write/2016/12/26/anki-scripting.html
 
 Example extension:  https://github.com/wilddom/memrise2anki-extension
