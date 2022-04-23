@@ -1,5 +1,6 @@
 # youtube2anki
-Generate Anki decks from german youtube video subtitles.
+Alternative to [LingQ](https://www.lingq.com/en/)  
+Generate Anki decks from youtube video subtitles.
 
   1. Fetch anki decks from Anki server using Python Anki client.
   2. Fetch captions from desired YouTube video if exists. https://pypi.org/project/youtube-transcript-api/
